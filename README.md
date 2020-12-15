@@ -1,5 +1,5 @@
 # TokoOnline-Project
-pembuatan toko online secara sederhana
+Project Toko Online sederhana menggunakan Android Studio
 
 untuk file fullnya dapat di download pada link ini
 
